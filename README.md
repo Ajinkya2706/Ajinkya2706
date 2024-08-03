@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajinkya2706
 - 👀 I’m interested in ... Coding and Web Development
-- 🌱 I’m currently learning ... Enginnering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Pursuing... Enginnering
+- 💞️ I’m looking to collaborate on ... Web Devlopment
 - 📫 How to reach me ...
 
 <!---
