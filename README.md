@@ -90,10 +90,10 @@
       <td width="50%">
         <h3 align="center">🔥 Latest Repositories</h3>
         <div align="center">
-          <a href="https://github.com/Ajinkya2706">
+          <a href="https://github.com/Ajinkya2706/Code_Collabrator">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya2706&repo=Code_Collabrator&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
           </a>
-          <a href="https://github.com/Ajinkya2706">
+          <a href="https://github.com/Ajinkya2706/Ai-Interviewer">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya2706&repo=Ai-interviewer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
           </a>
         </div>
