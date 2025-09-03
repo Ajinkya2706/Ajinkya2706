@@ -9,27 +9,13 @@
   </picture>
 </div>
 
-<div align="center">
-<div align="center">
-  <a href="https://github.com/Ajinkya2706">
-    <img src="https://komarev.com/ghpvc/?username=Ajinkya2706&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Badge">
-  </a>
-  <a href="https://github.com/Ajinkya2706?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ajinkya2706?label=Followers&style=for-the-badge" alt="Followers">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="75%">
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-
+ 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🎯Welcome+to+Ajinkya's+profile;🌟+Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
   <table>
     <tr>
       <td>
@@ -49,7 +35,45 @@
   </table>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Tech Arsenal
+
+
+<div align="center">
+<div align="center">
+  <a href="https://github.com/Ajinkya2706">
+    <img src="https://komarev.com/ghpvc/?username=Ajinkya2706&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Badge">
+  </a>
+  <a href="https://github.com/Ajinkya2706?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ajinkya2706?label=Followers&style=for-the-badge" alt="Followers">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="75%">
+</div>
+
+
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔥 Latest Repositories</h3>
+        <div align="center">
+          <a href="https://github.com/Ajinkya2706/Code_Collabrator">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya2706&repo=Code_Collabrator&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+          </a>
+          <a href="https://github.com/Ajinkya2706/Ai-Interviewer">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya2706&repo=Ai-interviewer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Tech Arsenal
 
 <div align="center">
 
@@ -73,29 +97,6 @@
 <div align="center">
 
   
-
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔥 Latest Repositories</h3>
-        <div align="center">
-          <a href="https://github.com/Ajinkya2706/Code_Collabrator">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya2706&repo=Code_Collabrator&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-          </a>
-          <a href="https://github.com/Ajinkya2706/Ai-Interviewer">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkya2706&repo=Ai-interviewer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
