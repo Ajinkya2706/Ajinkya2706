@@ -56,7 +56,6 @@
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" />
 
-
 ### 🚀 Frameworks & Libraries  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,express,nodejs,&theme=dark" />
 
@@ -74,12 +73,6 @@
 <div align="center">
 
   
-  <div style="margin-top: 15px; padding-top: 15px; border-top: 2px solid #4A86E8;">
-    <p style="color: #9e9e9e; font-size: 0.9rem; margin: 0;">⭐ Always learning, always growing ⭐</p>
-  </div>
-</div>
-
---- 
 
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Featured Projects
